@@ -1,0 +1,1 @@
+# Minecraft-Server-Auto-Map-Config-Tool
